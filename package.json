@@ -1,0 +1,33 @@
+{
+  "name": "mongodb_crud_mongoose",
+  "version": "1.0.0",
+  "description": "CRUD REST API using Node | Express | MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodeman app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarizzaM/NodeJS_MongoDB_CRUD_Mongoose.git"
+  },
+  "keywords": [
+    "CRUD",
+    "Node",
+    "Express",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "Marina Pavlova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarizzaM/NodeJS_MongoDB_CRUD_Mongoose/issues"
+  },
+  "homepage": "https://github.com/MarizzaM/NodeJS_MongoDB_CRUD_Mongoose#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
