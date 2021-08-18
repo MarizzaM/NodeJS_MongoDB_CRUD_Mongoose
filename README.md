@@ -28,7 +28,7 @@ Terminal
       
 Postman
 
-    ![image](https://user-images.githubusercontent.com/75089445/129903157-37d2507f-b035-4b3d-87e5-02ff969873d4.png)
+![image](https://user-images.githubusercontent.com/75089445/129903157-37d2507f-b035-4b3d-87e5-02ff969873d4.png)
 
       
 
