@@ -9,7 +9,7 @@ Terminal
     
     npm install mongodb
     
-    npm install mongooose
+    npm install mongoose
     
     npm install nodemon --save-dev
     
